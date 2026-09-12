@@ -1,3 +1,14 @@
+# Секретные переменные окружения
 .env
+.env.local
+
+# Кэш Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Настройки редакторов и системы
+.vscode/
+.idea/
+.DS_Store
